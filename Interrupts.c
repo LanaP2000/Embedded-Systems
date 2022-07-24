@@ -1,4 +1,3 @@
-
 #define F_CPU 16000000UL //16 MHz clock
 
 #include <avr/io.h>
