@@ -1,10 +1,3 @@
-/*
- * Lab4.c
- *
- * Created: 11/16/2020 1:08:40 PM
- * Author : Admin
- */ 
-
 #define F_CPU 16000000UL //16 MHz clock
 #define BAUD 9600 // Baud 9600
 #define BAUDRATE ((F_CPU) / (BAUD * 16UL) - 1) //Baud rate
