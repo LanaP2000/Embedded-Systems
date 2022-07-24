@@ -1,4 +1,3 @@
-
 #define F_CPU 16000000 //16Mhz frequency is set.
 #define BAUD 9600 //Baud 9600
 #define BAUDRATE ((F_CPU)/(BAUD*16UL)-1) //baud rate is set
